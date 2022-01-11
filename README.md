@@ -5,7 +5,7 @@ This project was bootstrapped with Create React App. The project is targeted to 
 
 # Installation and setup the project guidelines
 # Clone
-gh repo clone helloworld-iiitt/iiitt.ac.in
+gh repo clone Jagmohan-Dixit/login-system
 
 # Setup for first time
 This command will install all necessary packages and add node_modules file.
