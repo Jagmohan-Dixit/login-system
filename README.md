@@ -1,7 +1,7 @@
 # login-system
 
 # About Project
-This project was bootstrapped with Create React App. The project is targeted to revamp the old Official website of IIIT Trichy. The new website will have advanced styling and interactive interface.
+This project was bootstrapped with Create React App. This is a Login System Project with authentication.
 
 # Installation and setup the project guidelines
 # Clone
