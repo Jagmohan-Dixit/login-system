@@ -1,4 +1,3 @@
-# login-system
 
 # About Project
 This project was bootstrapped with Create React App. This is a Login System Project with authentication.
